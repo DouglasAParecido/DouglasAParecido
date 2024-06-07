@@ -1,4 +1,12 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🤙 
+
+meu nome é Douglas Aparecido
+
+- Estou estudando na [Alura](https://www.alura.com.br/)
+- Estou me desenvolvendo na linguagem JavaScript
+
+### Contato:
+00001110149293sp@al.educacao.sp.gov.br
 
 <!--
 **DouglasAParecido/DouglasAParecido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
