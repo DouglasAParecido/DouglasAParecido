@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 🤙 
+## Boas vindas ao meu perfil 🤓
 
 meu nome é Douglas Aparecido
 
